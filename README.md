@@ -1,4 +1,9 @@
-# angular-seed — the seed for AngularJS apps
+# F1 Feeder App
+
+Takes API data from Formula 1 and displays it in the app. This is based off of popular angular-seed.
+
+
+## angular-seed — the seed for AngularJS apps
 
 This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
 You can use it to quickly bootstrap your angular webapp projects and dev environment for these
@@ -176,8 +181,8 @@ This script will execute the end-to-end tests against the application being host
 development server.
 
 **Note:**
-Under the hood, Protractor uses the [Selenium Stadalone Server][selenium], which in turn requires 
-the [Java Development Kit (JDK)][jdk] to be installed on your local machine. Check this by running 
+Under the hood, Protractor uses the [Selenium Stadalone Server][selenium], which in turn requires
+the [Java Development Kit (JDK)][jdk] to be installed on your local machine. Check this by running
 `java -version` from the command line.
 
 If JDK is not already installed, you can download it [here][jdk-download].
